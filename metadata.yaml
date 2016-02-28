@@ -1,0 +1,32 @@
+_repo: Hudibras-in-Three-Parts-Written-in-the-Time-of-the-Late-Wars_4937
+contributor:
+  creator:
+    editor:
+      agent_name: O'Danachair, Donal
+      gutenberg_agent_id: '41540'
+      url: http://www.gutenberg.org/2009/agents/41540
+creator:
+  author:
+    agent_name: Butler, Samuel
+    aliases:
+    - Civicus, Mercurius
+    - Canne, J.
+    birthdate: 1612
+    deathdate: 1680
+    gutenberg_agent_id: '4418'
+    url: http://www.gutenberg.org/2009/agents/4418
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_%281612-1680%29
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4937'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry -- Early modern, 1500-1700'
+title: Hudibras, in Three Parts, Written in the Time of the Late Wars
+url: http://www.gutenberg.org/ebooks/4937
