@@ -1,11 +1,14 @@
 _repo: Hudibras-in-Three-Parts-Written-in-the-Time-of-the-Late-Wars_4937
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
       agent_name: O'Danachair, Donal
       gutenberg_agent_id: '41540'
       url: http://www.gutenberg.org/2009/agents/41540
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4418
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_%281612-1680%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4937#Hudibras-in-Three-Parts-Written-in-the-Time-of-the-Late-Wars
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
